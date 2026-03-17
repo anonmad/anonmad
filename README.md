@@ -15,21 +15,13 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/anonmad/anonmad?style=for-the-badge&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/anonmad?style=for-the-badge&label=Followers" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/anonmad/anonmad?style=for-the-badge&label=Stars" alt="Stars"/>
   <img src="https://img.shields.io/github/forks/anonmad/anonmad?style=for-the-badge&label=Forks" alt="Forks"/>
   <img src="https://img.shields.io/github/watchers/anonmad/anonmad?style=for-the-badge&label=Watchers" alt="Watchers"/>
 </div>
 
 ---
-<div>
-  <a href="https://youtube.com/@zulixtech?si=NcOIkiSZoNfHbn7Y" target="_blank">
-    <img src="assets/thor.png" alt="ThorData Proxies" width="100%" />
-  </a>
-</div>
-
-<br>
-
 <div align="left">
   <b>Thordata: Get Reliable Global Proxies at an Unbeatable Value.</b><br><br>
   One-click data collection with enterprise-grade stability and compliance.<br>
@@ -169,8 +161,8 @@ If you like this project, please [⭐️ Follow me on GitHub](https://github.com
 
 ## Credits
 
-- [𝐊𝐚𝐥𝐢-𝐨𝐒.𝐟𝐨𝐮𝐧𝐝]([https://wa.me/message/SODIKJBXAM7XL1])
-- [𝗔𝗻𝗼𝗻𝗺𝗮𝗱 𝗡𝗲𝘁𝘄𝗼𝗿𝗸]([https://anonmad.github.io/bongo.porto/])
+- [𝐊𝐚𝐥𝐢-𝐨𝐒.𝐟𝐨𝐮𝐧𝐝](https://wa.me/message/SODIKJBXAM7XL1)
+- [𝗔𝗻𝗼𝗻𝗺𝗮𝗱 𝗡𝗲𝘁𝘄𝗼𝗿𝗸](https://anonmad.github.io/bongo.porto/)
 
 ---
 
