@@ -1,6 +1,7 @@
 # 🤖 Kali oS
 
-This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
+> 🔹 Hii profile ni kwa ajili ya kuonyesha ujuzi wangu, miradi niliyoiunda, na majaribio yangu ya teknolojia.  
+> 🔹 This profile is created to showcase my skills, projects I build, and my experiments in technology.
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
