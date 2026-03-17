@@ -1,6 +1,7 @@
 # 🤖 Hi, I'm 𝐊𝐚𝐥𝐢-𝐨𝐒.𝐟𝐨𝐮𝐧𝐝404.
 
-> 🔹 Hii profile ni kwa ajili ya kuonyesha ujuzi wangu, miradi niliyoiunda, na majaribio yangu ya teknolojia.  
+> 🔹 Hii profile ni kwa ajili ya kuonyesha ujuzi wangu, miradi niliyoiunda, na majaribio yangu ya teknolojia.
+  
 > 🔹 This profile is created to showcase my skills, projects I build, and my experiments in technology.
 
 <div align="center"> 
