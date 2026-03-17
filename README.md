@@ -53,10 +53,10 @@ Click the button below to fork the Knight Bot repository to your GitHub account:
 
 ---
 
-### Deploy on Below Panel
+### Connect on Below Panel
 <div align="center">
-<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
+<a href="https://anonmad.github.io/bongo.porto/" target="_blank">
+  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Kali panel"/>
 </a>
 </div>
 
@@ -68,6 +68,18 @@ Click the button below to fork the Knight Bot repository to your GitHub account:
   </a>
   <a href="https://whatsapp.com/channel/0029VavbyFZ5Ui2gQ0nN7y1Q">
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
+  </a>
+  <a href="https://www.linkedin.com/in/evarist-kachira-25a25a3ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join LinkedIn"/>
+  </a>
+  <a href="https://x.com/mtumkimya">
+    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join Tweeter-X"/>
+  </a>
+  <a href="https://www.facebook.com/share/18JhhFpV64/">
+    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join Facebook"/>
+  </a>
+  <a href="https://anonmad.github.io/swahili_ai.com/">
+    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat with bot"/>
   </a>
 </div>
 
