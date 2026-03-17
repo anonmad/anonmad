@@ -56,7 +56,7 @@ Click the button below to fork the Knight Bot repository to your GitHub account:
 ### Connect on Below Panel
 <div align="center">
 <a href="https://anonmad.github.io/bongo.porto/" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Kali panel"/>
+  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Panel"/>
 </a>
 </div>
 
@@ -70,16 +70,16 @@ Click the button below to fork the Knight Bot repository to your GitHub account:
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
   <a href="https://www.linkedin.com/in/evarist-kachira-25a25a3ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join LinkedIn"/>
+    <img src="https://img.shields.io/badge/Join-LinkedIn-brightgreen?style=for-the-badge" alt="Join LinkedIn"/>
   </a>
   <a href="https://x.com/mtumkimya">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join Tweeter-X"/>
+    <img src="https://img.shields.io/badge/Join-Tweeter-X-brightgreen?style=for-the-badge" alt="Join Tweeter-X"/>
   </a>
   <a href="https://www.facebook.com/share/18JhhFpV64/">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join Facebook"/>
+    <img src="https://img.shields.io/badge/facebook-blue?logo=facebook" alt="Join Facebook"/>
   </a>
   <a href="https://anonmad.github.io/swahili_ai.com/">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat with bot"/>
+    <img src="https://img.shields.io/badge/Chat-with-Bot-95%25-orange" alt="Chat with bot"/>
   </a>
 </div>
 
