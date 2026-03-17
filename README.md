@@ -24,44 +24,22 @@
 </div>
 
 ---
-<div align="left">
-  <b>Thordata: Get Reliable Global Proxies at an Unbeatable Value.</b><br><br>
-  One-click data collection with enterprise-grade stability and compliance.<br>
-  Join thousands of developers using ThorData for high-scale operations.<br><br>
-  🎁 <b>Exclusive Offer:</b> Sign up for a free Residential Proxy trial and 2,000 <b>FREE SERP API calls!</b>
-</div>
-
 <br>
 
 <div align="left">
   <a href="https://youtube.com/@zulixtech?si=NcOIkiSZoNfHbn7Y" target="_blank">
-    <img src="https://img.shields.io/badge/Try now-28a745?style=for-the-badge" alt="Try now"/>
+    <img src="https://img.shields.io/badge/Try now-28a745?style=for-the-badge" alt="Watch video"/>
   </a>
 </div>
 
-
-## 🚀 Steps to Deploy README.md
-
-### Step 1: Fork the Repository
-
-Click the button below to fork the Knight Bot repository to your GitHub account:
-
-<div align="center">
-  <a href="https://github.com/anonmad/anonmad/fork">
-    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
-  </a>
-</div>
-
----
-
-### Connect on Below Panel
+### Connect with Us
 <div align="center">
 <a href="https://anonmad.github.io/bongo.porto/" target="_blank">
   <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Panel"/>
 </a>
 </div>
 
-### Join Us
+### Follow Us
 
 <div align="center">
   <a href="https://t.me/addlist/kmMW8Emuw9YzNTM0">
