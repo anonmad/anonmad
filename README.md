@@ -131,16 +131,8 @@
 <div align="center">
 
 <a href="https://buymeacoffee.com/anonmad" target="_blank">
-  <img src="#" alt="Buy Me a Coffee">
+  <img src="https://img.shields.io/badge/Buy me Cofee-brightgreen?style=for-the-badge" alt="Buy Me a Coffee">
 </a>
-
-</div>
-
-If you find this project helpful and want to support the developer, consider buying me a coffee! Your support helps maintain and improve this open-source project.
-
-<div align="center">
-
-<img src="assets/bmc_qr.png" alt="Buy Me a Coffee QR Code" width="200">
 
 </div>
 
@@ -153,8 +145,8 @@ If you like this project, please [⭐️ Follow me on GitHub](https://github.com
 
 ## Credits
 
-- [𝐊𝐚𝐥𝐢-𝐨𝐒.𝐟𝐨𝐮𝐧𝐝](https://wa.me/message/SODIKJBXAM7XL1)
-- [𝗔𝗻𝗼𝗻𝗺𝗮𝗱 𝗡𝗲𝘁𝘄𝗼𝗿𝗸](https://anonmad.github.io/bongo.porto/)
+- [![𝗔𝗻𝗼𝗻𝗺𝗮𝗱 𝗡𝗲𝘁𝘄𝗼𝗿𝗸](https://img.shields.io/badge/𝗔𝗻𝗼𝗻𝗺𝗮𝗱 𝗡𝗲𝘁𝘄𝗼𝗿𝗸-brightgreen?style=for-the-badge)](https://anonmad.github.io/bongo.porto/)
+- [![𝐊𝐚𝐥𝐢-𝐨𝐒.𝐟𝐨𝐮𝐧𝐝](https://img.shields.io/badge/𝐊𝐚𝐥𝐢-𝐨𝐒.𝐟𝐨𝐮𝐧𝐝-brightgreen?style=for-the-badge)](https://wa.me/message/SODIKJBXAM7XL1)
 
 ---
 
