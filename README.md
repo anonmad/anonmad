@@ -145,7 +145,7 @@ If you like this project, please [⭐️ Follow me on GitHub](https://github.com
 
 ## Credits
 
-- [![𝗔𝗻𝗼𝗻𝗺𝗮𝗱 𝗡𝗲𝘁𝘄𝗼𝗿𝗸](https://img.shields.io/badge/𝗔𝗻𝗼𝗻𝗺𝗮𝗱 𝗡𝗲𝘁𝘄𝗼𝗿𝗸-brightgreen?style=for-the-badge)](https://anonmad.github.io/bongo.porto/)
+- [![𝗔𝗻𝗼𝗻𝗺𝗮𝗱 𝗡𝗲𝘁𝘄𝗼𝗿𝗸](https://img.shields.io/badge/𝗔𝗻𝗼𝗻𝗺𝗮𝗱-𝗡𝗲𝘁𝘄𝗼𝗿𝗸-brightgreen?style=for-the-badge)](https://anonmad.github.io/bongo.porto/)
 - [![𝐊𝐚𝐥𝐢-𝐨𝐒.𝐟𝐨𝐮𝐧𝐝](https://img.shields.io/badge/𝐊𝐚𝐥𝐢-𝐨𝐒.𝐟𝐨𝐮𝐧𝐝-brightgreen?style=for-the-badge)](https://wa.me/message/SODIKJBXAM7XL1)
 
 ---
