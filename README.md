@@ -79,7 +79,7 @@ Click the button below to fork the Knight Bot repository to your GitHub account:
     <img src="https://img.shields.io/badge/Join-Facebook-brightgreen?style=for-the-badge" alt="Join Facebook"/>
   </a>
   <a href="https://anonmad.github.io/swahili_ai.com/">
-    <img src="https://img.shields.io/badge/Chat-Bot-95%25-brightorange?style=for-the-badge" alt="Chat with bot"/>
+    <img src="https://img.shields.io/badge/ChatBot-95%25-brightorange?style=for-the-badge" alt="Chat with bot"/>
   </a>
 </div>
 
