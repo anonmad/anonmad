@@ -28,14 +28,14 @@
 
 <div align="left">
   <a href="https://youtube.com/@zulixtech?si=NcOIkiSZoNfHbn7Y" target="_blank">
-    <img src="https://img.shields.io/badge/Try now-28a745?style=for-the-badge" alt="Watch video"/>
+    <img src="https://img.shields.io/badge/Watch video-28a745?style=for-the-badge" alt="Watch video"/>
   </a>
 </div>
 
 ### Connect with Us
 <div align="center">
 <a href="https://anonmad.github.io/bongo.porto/" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Panel"/>
+  <img src="https://img.shields.io/badge/Portofolio-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Portofolio"/>
 </a>
 </div>
 
