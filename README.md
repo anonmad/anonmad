@@ -140,7 +140,7 @@
 
 ## 🌟 Show your support
 
-If you like this project, please [![⭐️Follow me on GitHub](https://img.shields.io/badge/Follow_me-on_Github-blue)](https://github.com/anonmad/anonmad)
+If you like this project, please  [![⭐️Follow me on GitHub](https://img.shields.io/badge/Follow_me-on_Github-blue)](https://github.com/anonmad/anonmad)
 
 
 ## Credits
