@@ -26,7 +26,7 @@
 ---
 <br>
 
-<div align="left">
+<div align="center">
   <a href="https://youtube.com/@zulixtech?si=NcOIkiSZoNfHbn7Y" target="_blank">
     <img src="https://img.shields.io/badge/Watch video-28a745?style=for-the-badge" alt="Watch video"/>
   </a>
