@@ -19,7 +19,6 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/anonmad?style=for-the-badge&label=Followers" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/anonmad/anonmad?style=for-the-badge&label=Stars" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/anonmad/anonmad?style=for-the-badge&label=Forks" alt="Forks"/>
   <img src="https://img.shields.io/github/watchers/anonmad/anonmad?style=for-the-badge&label=Watchers" alt="Watchers"/>
 </div>
 
